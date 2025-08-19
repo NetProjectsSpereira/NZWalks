@@ -70,3 +70,4 @@ D:\Cursos\Backend\Asp.Net_Core_Web_API\Projects\NZWalks\NZWalks.API\obj\Debug\ne
 D:\Cursos\Backend\Asp.Net_Core_Web_API\Projects\NZWalks\NZWalks.API\obj\Debug\net7.0\NZWalks.API.pdb
 D:\Cursos\Backend\Asp.Net_Core_Web_API\Projects\NZWalks\NZWalks.API\obj\Debug\net7.0\NZWalks.API.genruntimeconfig.cache
 D:\Cursos\Backend\Asp.Net_Core_Web_API\Projects\NZWalks\NZWalks.API\obj\Debug\net7.0\ref\NZWalks.API.dll
+D:\Cursos\Backend\Asp.Net_Core_Web_API\Projects\NZWalks\NZWalks.API\obj\Debug\net7.0\NZWalks.API.sourcelink.json
